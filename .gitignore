@@ -1,4 +1,14 @@
-.ipynb_checkpoints
-*.pyc
+# ignore virtual envs
+ENV/
+env/
+venv/
+
+# ignore jupyter checkpoints
+.ipynb_checkpoints/
+
+# ignore files of model
 *.npz
+*.pkl
+*.zip
+*.pyc
 *.gz
