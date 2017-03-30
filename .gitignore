@@ -12,3 +12,5 @@ venv/
 *.zip
 *.pyc
 *.gz
+
+.DS*
