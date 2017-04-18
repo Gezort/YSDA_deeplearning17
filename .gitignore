@@ -14,3 +14,5 @@ venv/
 *.gz
 
 .DS*
+
+*lfw*
